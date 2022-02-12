@@ -1,5 +1,5 @@
 import {NextApiRequest, NextApiResponse} from "next";
-import {httpMethods, HttpMethodType, ResponseType} from "./types/indes";
+import {httpMethods, HttpMethodType, ResponseType} from "./types";
 
 type ApiResponse = {
 

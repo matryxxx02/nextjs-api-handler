@@ -1,5 +1,7 @@
 # NextJS API Handler 
 
+The most EZ way to handle your Next JS API's requests !
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
